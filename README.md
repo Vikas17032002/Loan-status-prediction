@@ -11,6 +11,7 @@ time-consuming idea.
 
 
 Dataset Used and Preprocessing.
+
 For the prediction of the bank loan status, we are going to use a dataset that is available on
 Kaggle as “Bank Loan Status Dataset”. To fit the dataset according to our need we will be
 mapping string values to the numerical values. Also, we need to handle the null/ NA values that
@@ -18,6 +19,7 @@ are present in the dataset.
 
 
 Learning Techniques.
+
 Currently, as we have planned we are going to use the given machine learning algorithms to train
 our model. As a reference we are going to stick with Logistic Regression further we will be
 testing our model for Random Forest, Decision Tree and Neural Network (Sequential).
@@ -27,6 +29,7 @@ dataset is quite large which makes it preferable to use Neural Network technique
 
 
 Evaluation Metrics and Error analysis.
+
 For the given dataset we will be using the binary classifiers to predict whether the person with
 the provided details will be able to repay his/her bank loan completely or not. To find the
 accuracy of the model we will be using different machine learning models to find the accuracy
